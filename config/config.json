@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "daliamp3",
+    "password": "miniproject3",
+    "database": "fruits",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "daliamp3",
+    "password": "miniproject3",
+    "database": "fruits",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "daliamp3",
+    "password": "miniproject3",
+    "database": "fruits",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
